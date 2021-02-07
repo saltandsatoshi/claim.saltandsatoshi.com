@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.d1b95618.chunk.css",
-    "main.js": "/static/js/main.4db0be99.chunk.js",
-    "main.js.map": "/static/js/main.4db0be99.chunk.js.map",
+    "main.js": "/static/js/main.adee36c9.chunk.js",
+    "main.js.map": "/static/js/main.adee36c9.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.1c5beede.js",
     "runtime-main.js.map": "/static/js/runtime-main.1c5beede.js.map",
     "static/js/2.105911ed.chunk.js": "/static/js/2.105911ed.chunk.js",
@@ -22,13 +22,13 @@
     "static/media/style.scss": "/static/media/salty-bg.b3a5eff6.png",
     "static/media/coingecko.4bc28e65.webp": "/static/media/coingecko.4bc28e65.webp",
     "static/media/salty-plain.b3a5eff6.png": "/static/media/salty-plain.b3a5eff6.png",
-    "static/media/salty-spinner.d3cf30b2.gif": "/static/media/salty-spinner.d3cf30b2.gif"
+    "static/media/salty-spinner.005b63ce.svg": "/static/media/salty-spinner.005b63ce.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.1c5beede.js",
     "static/css/3.83342f34.chunk.css",
     "static/js/3.c15dd8f8.chunk.js",
     "static/css/main.d1b95618.chunk.css",
-    "static/js/main.4db0be99.chunk.js"
+    "static/js/main.adee36c9.chunk.js"
   ]
 }
