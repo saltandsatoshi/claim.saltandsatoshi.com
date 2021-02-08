@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.e9d642c6.chunk.css",
-    "main.js": "/static/js/main.7843ddee.chunk.js",
-    "main.js.map": "/static/js/main.7843ddee.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.fdddde48.js",
-    "runtime-main.js.map": "/static/js/runtime-main.fdddde48.js.map",
+    "main.css": "/static/css/main.68d9d693.chunk.css",
+    "main.js": "/static/js/main.61e392bd.chunk.js",
+    "main.js.map": "/static/js/main.61e392bd.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.19d880f9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.19d880f9.js.map",
     "static/js/2.105347f3.chunk.js": "/static/js/2.105347f3.chunk.js",
     "static/js/2.105347f3.chunk.js.map": "/static/js/2.105347f3.chunk.js.map",
     "static/js/3.00e70033.chunk.js": "/static/js/3.00e70033.chunk.js",
@@ -15,14 +15,14 @@
     "static/js/5.ec01093c.chunk.js": "/static/js/5.ec01093c.chunk.js",
     "static/js/5.ec01093c.chunk.js.map": "/static/js/5.ec01093c.chunk.js.map",
     "static/css/6.dffcbed7.chunk.css": "/static/css/6.dffcbed7.chunk.css",
-    "static/js/6.e5207411.chunk.js": "/static/js/6.e5207411.chunk.js",
-    "static/js/6.e5207411.chunk.js.map": "/static/js/6.e5207411.chunk.js.map",
+    "static/js/6.1f691df0.chunk.js": "/static/js/6.1f691df0.chunk.js",
+    "static/js/6.1f691df0.chunk.js.map": "/static/js/6.1f691df0.chunk.js.map",
     "static/js/7.521b046b.chunk.js": "/static/js/7.521b046b.chunk.js",
     "static/js/7.521b046b.chunk.js.map": "/static/js/7.521b046b.chunk.js.map",
     "index.html": "/index.html",
     "static/css/4.83342f34.chunk.css.map": "/static/css/4.83342f34.chunk.css.map",
     "static/css/6.dffcbed7.chunk.css.map": "/static/css/6.dffcbed7.chunk.css.map",
-    "static/css/main.e9d642c6.chunk.css.map": "/static/css/main.e9d642c6.chunk.css.map",
+    "static/css/main.68d9d693.chunk.css.map": "/static/css/main.68d9d693.chunk.css.map",
     "static/js/2.105347f3.chunk.js.LICENSE.txt": "/static/js/2.105347f3.chunk.js.LICENSE.txt",
     "static/js/3.00e70033.chunk.js.LICENSE.txt": "/static/js/3.00e70033.chunk.js.LICENSE.txt",
     "static/js/4.d8b56595.chunk.js.LICENSE.txt": "/static/js/4.d8b56595.chunk.js.LICENSE.txt",
@@ -32,10 +32,10 @@
     "static/media/salty-spinner.005b63ce.svg": "/static/media/salty-spinner.005b63ce.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fdddde48.js",
+    "static/js/runtime-main.19d880f9.js",
     "static/css/4.83342f34.chunk.css",
     "static/js/4.d8b56595.chunk.js",
-    "static/css/main.e9d642c6.chunk.css",
-    "static/js/main.7843ddee.chunk.js"
+    "static/css/main.68d9d693.chunk.css",
+    "static/js/main.61e392bd.chunk.js"
   ]
 }
